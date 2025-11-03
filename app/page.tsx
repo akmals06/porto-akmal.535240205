@@ -40,7 +40,7 @@ export default function Home() {
           <div className="avatar-section">
             <div className="avatar-photo">
               <Image 
-                src="/profile.jpg" 
+                src="/profile.jpeg" 
                 alt="Akmal Fadhlul Rohman"
                 width={160}
                 height={160}
