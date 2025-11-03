@@ -8,7 +8,7 @@ export default function Home() {
   const skills = [
     { name: 'Kali Linux', icon: 'https://img.icons8.com/color/96/kali-linux.png' },
     { name: 'Docker', icon: 'https://img.icons8.com/color/96/docker.png' },
-    { name: 'Nmap', icon: 'https://img.icons8.com/color/96/network.png' },
+    { name: 'Nmap', icon: 'https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000' },
     { name: 'Burpsuite', icon: 'https://img.icons8.com/color/96/security-checked.png' },
     { name: 'JavaScript', icon: 'https://img.icons8.com/color/96/javascript.png' },
     { name: 'Python', icon: 'https://img.icons8.com/color/96/python.png' },
